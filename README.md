@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan975&label=Profile%20views&color=0e75b6&style=flat" alt="ivan975" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivan975" alt="ivan975" /></a> </p>
-
 - 🌱 I’m currently learning **reactjs, redux, node js, solidity**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ivan975](https://github.com/ivan975)
 
 - 📫 How to reach me **rakib.ivan@gmail.com**
 
@@ -25,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivan975&show_icons=true&locale=en" alt="ivan975" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivan975&" alt="ivan975" /></p>
+
 
