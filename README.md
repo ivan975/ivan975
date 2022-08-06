@@ -17,7 +17,7 @@
 <a href="https://dribbble.com/https://dribbble.com/ivan975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/ivan975" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivan975&show_icons=true&locale=en&layout=compact" alt="ivan975" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivan975&show_icons=true&locale=en&layout=compact" alt="ivan975" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivan975&show_icons=true&locale=en" alt="ivan975" /></p>
 
