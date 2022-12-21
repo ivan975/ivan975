@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan975&label=Profile%20views&color=0e75b6&style=flat" alt="ivan975" /> </p>
 
-- 🌱 I’m currently learning **reactjs, redux, node js, solidity**
+- 🌱 I’m currently learning **reactjs, redux, express js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ivan975](https://github.com/ivan975)
 
