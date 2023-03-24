@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakib Hossain Ivan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Software Engineer(Quality Assurance)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan975&label=Profile%20views&color=0e75b6&style=flat" alt="ivan975" /> </p>
 
