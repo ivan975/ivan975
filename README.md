@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **manual testing, test case writing, bug report writing, iOS Testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ivan975?tab=repositories](https://github.com/ivan975?tab=repositories)]
+- 👨‍💻 All of my projects are available at [https://github.com/ivan975?tab=repositories](https://github.com/ivan975?tab=repositories)
 
 - 📫 How to reach me **rakib.ivan@gmail.com**
 
